@@ -1,7 +1,5 @@
 # Numerical Methods in Python
 
-![tests](https://github.com/troyfrancoceldran-ctrl/numerical-methods-python/actions/workflows/tests.yml/badge.svg)
-
 Python solvers for root-finding, linear systems and nonlinear systems, validated against NumPy and SciPy and applied to small battery, circuit and network problems.
 
 > **Status:** complete as a learning project. It has the solvers, 36 automated tests, and five notebooks with written observations. It does not include hand derivations of the methods, and I did not write the solvers from scratch (see "Use of AI tools" below).
